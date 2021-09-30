@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🖥️ I’m currently working on a secret brand new YouTube programming series!
+- 🖥️ I’m currently working on a brand new YouTube programming series!
 - 🏫 I’m currently learning Python, Ionic/Angular w/ TypeScript and node.js app development, and JavaScript w/ p5js.
 - 🤝 I’m looking for help with C and Unity game development.
 - 🇻🇳 Ask me about Vietnamese history, food, and culture!
