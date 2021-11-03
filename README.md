@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🖥️ I’m currently working on a brand new YouTube programming series!
 
-- 🏫 I’ve university/junior level knowledge in Python programming, Ionic/Angular w/ TypeScript and node.js front-end app development, Laravel, ELoquent ORM, PHP, Sqlite full-stack web-app development and JavaScript w/ p5js indie game development.
+- 🏫 I’ve university or junior level knowledge in Python programming, Ionic/Angular w/ TypeScript and node.js front-end app development, Laravel, ELoquent ORM, PHP, Sqlite full-stack web-app development and JavaScript w/ p5js indie game development.
 
 - 🤝 I’m looking for help with C and Unity game development.
 
